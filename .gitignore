@@ -1,0 +1,24 @@
+# Dependencias de Node.js
+node_modules/
+
+# Archivos de entorno
+.env
+
+# Archivos de registro
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Directorios de salida
+dist/
+build/
+
+# Archivos de cache de IDEs (opcional)
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Configuración de sistema operativo (opcional)
+.DS_Store
+Thumbs.db
